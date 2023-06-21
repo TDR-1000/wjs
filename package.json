@@ -42,7 +42,7 @@
   "dependencies": {
     "axios": "latest",
     "chalk": "latest",
-    "file-type": "^16.5.3",
+    "file-type": "^16.5.4",
     "mime": "latest",
     "mime-types": "latest",
     "mongoose": "^6.8.1",
