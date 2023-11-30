@@ -48,7 +48,7 @@
     "mongoose": "^6.8.1",
     "nodemon": "latest",
     "node-fetch": "^2.6.5",
-    "node-webpmux": "^3.1.0",
+    "node-webpmux": "^3.2.0",
     "syntax-error": "latest",
     "sharp": "latest"
   },
